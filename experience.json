@@ -1,0 +1,20 @@
+{
+ "1": {
+   "title":"Full-Stack Software Engineer", 
+   "employment_type": "Full-time",
+   "company_name": "Brackets Digital",
+   "location": "London, UK",
+   "start_date": "Sep 2021",
+   "end_date":"Apr 2022",
+   "role_description": "<p>Worked on many high-profile websites for major theatre and media companies, including sites built for Green The Uk and some of the most popular theatre productions in London’s West End.</p><p>Successfully met many tight deadlines with very limited timeframes.</p><p>Extensive use of CSS, Bootstrap 3, 4 and 5, PHP,  jQuery and git management through BitBucket. I also worked with SQL databases, AWS and Laravel Forge and on legacy sites hosted using FTP.</p><p>Rapidly built static sites in a few hours and turned them into dynamically generated sites with an integrated CMS once clients approved the initial result</p><p>Built CMS for clients with Laravel and trained them in how to update their web content once project was complete</p>"
+ },
+ "2": {
+  "title":"", 
+  "employment_type": "",
+  "company_name": "",
+  "location": "",
+  "start_date": "",
+  "end_date":"",
+  "role_description":""
+}
+} 

@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 const importDetails = require('./details.json')
 const importProjects = require('./projects.json')
-const importExperience = require('./experince.json')
+const importExperience = require('./experience.json')
 app.use(express.json());
  
 const home = {
