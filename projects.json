@@ -1,42 +1,44 @@
 {
- "1":{ 
-   "project_name": "Favorite Codding Language", 
-   "project_image":" https://raw.githubusercontent.com/xavierloos/favorite-coding-language/master/public/img/username-screenshot.png",
-   "project_github": "https://github.com/xavierloos/favorite-coding-language",
-   "project_preview": "",
-   "project_description": "Enter a Github username and see the Github user's favourite programming language",
-   "project_creation_date": ""
- },
- "2":{ 
-   "project_name": "Ride The Duck", 
-   "project_image": "https://xavierloos.github.io/img/ridetheduck.png",
-   "project_github": "https://github.com/RideTheDuck/RideTheDuck",
-   "project_preview": "https://expo.io/@xavierloos/projects/RideTheDuck",
-   "project_description": "All-in-one travel mobile app developed at Makers in React Native, Firebase, APIs.",
-   "project_creation_date": ""
- },
- "3":{ 
-   "project_name": "Instagram Clone", 
-   "project_image": "https://xavierloos.github.io/img/javigram-home.png",
-   "project_github": "https://github.com/xavierloos/instagram-challenge",
-   "project_preview": "",
-   "project_description": "Weekend challenge developed at Makers in Ruby on Rails, Bootstrap and database PostgreSQL.",
-   "project_creation_date":""
- },
- "4":{ 
-   "project_name": "Acebook JAANIS", 
-   "project_image": "https://raw.githubusercontent.com/xavierloos/favorite-coding-language/master/public/img/username-screenshot.png",
-   "project_github": "https://github.com/Acebook-Jaanis/acebook-JAANIS",
-   "project_preview": "https://acebook-jaanis-natasha.herokuapp.com/",
-   "project_description": "Week challenge developed at Makers in Ruby on Rails, Bootstrap and database PostgreSQL.",
-   "project_creation_date": ""
- },
- "5":{ 
-   "project_name": "Today News", 
-   "project_image": "https://raw.githubusercontent.com/xavierloos/favorite-coding-language/master/public/img/username-screenshot.png",
-   "project_github": "https://github.com/xavierloos/news-summary-challenge",
-   "project_preview": "http://makers-today-news.surge.sh/",
-   "project_description": "Single page web app using The Guardian News API, JavaScript, CSS and HTML.",
-   "project_creation_date": ""
+  "0": {
+    "project_name": "Pokemon",
+    "project_image": "",
+    "project_github": "https://github.com/xavierloos/pokemons",
+    "project_preview": "",
+    "project_description": "Personal project developed with React and APIs."
+  },
+  "1": {
+    "project_name": "Favorite Codding Language",
+    "project_image": "https://raw.githubusercontent.com/xavierloos/favorite-coding-language/master/public/img/username-screenshot.png",
+    "project_github": "https://github.com/xavierloos/favorite-coding-language",
+    "project_preview": "",
+    "project_description": "Enter a Github username and see the Github user's favourite programming language"
+  },
+  "2": {
+    "project_name": "Ride The Duck",
+    "project_image": "https://xavierloos.github.io/img/ridetheduck.png",
+    "project_github": "https://github.com/RideTheDuck/RideTheDuck",
+    "project_preview": "https://expo.io/@xavierloos/projects/RideTheDuck",
+    "project_description": "All-in-one travel mobile app developed at Makers in React Native, Firebase, APIs."
+  },
+  "3": {
+    "project_name": "Instagram Clone",
+    "project_image": "https://xavierloos.github.io/img/javigram-home.png",
+    "project_github": "https://github.com/xavierloos/instagram-challenge",
+    "project_preview": "",
+    "project_description": "Weekend challenge developed at Makers in Ruby on Rails, Bootstrap and database PostgreSQL."
+  },
+  "4": {
+    "project_name": "Acebook JAANIS",
+    "project_image": "https://raw.githubusercontent.com/xavierloos/favorite-coding-language/master/public/img/username-screenshot.png",
+    "project_github": "https://github.com/Acebook-Jaanis/acebook-JAANIS",
+    "project_preview": "https://acebook-jaanis-natasha.herokuapp.com/",
+    "project_description": "Week challenge developed at Makers in Ruby on Rails, Bootstrap and database PostgreSQL."
+  },
+  "5": {
+    "project_name": "Today News",
+    "project_image": "https://raw.githubusercontent.com/xavierloos/favorite-coding-language/master/public/img/username-screenshot.png",
+    "project_github": "https://github.com/xavierloos/news-summary-challenge",
+    "project_preview": "http://makers-today-news.surge.sh/",
+    "project_description": "Single page web app using The Guardian News API, JavaScript, CSS and HTML."
   }
 }
