@@ -6,9 +6,18 @@
     "location": "London, UK",
     "start_date": "Sep 2021",
     "end_date": "Apr 2022",
-    "role_description": "<p>Worked on many high-profile websites for major theatre and media companies, including sites built for Green The Uk and some of the most popular theatre productions in London’s West End.</p><p>Successfully met many tight deadlines with very limited timeframes.</p><p>Extensive use of CSS, Bootstrap 3, 4 and 5, PHP,  jQuery and git management through BitBucket. I also worked with SQL databases, AWS and Laravel Forge and on legacy sites hosted using FTP.</p><p>Rapidly built static sites in a few hours and turned them into dynamically generated sites with an integrated CMS once clients approved the initial result</p><p>Built CMS for clients with Laravel and trained them in how to update their web content once project was complete</p>"
+    "role_description": "<li>Worked on many high-profile websites for major theatre and media companies, including sites built for Green The Uk and some of the most popular theatre productions in London’s West End.</li><li>Successfully met many tight deadlines with very limited timeframes.</li><li>Extensive use of CSS, Bootstrap 3, 4 and 5, PHP,  jQuery and git management through BitBucket. I also worked with SQL databases, AWS and Laravel Forge and on legacy sites hosted using FTP.</li><li>Rapidly built static sites in a few hours and turned them into dynamically generated sites with an integrated CMS once clients approved the initial result</li><li>Built CMS for clients with Laravel and trained them in how to update their web content once project was complete</li>"
   },
   "2": {
+    "title": "Software Engineering Bootcamp",
+    "employment_type": "Full-time intensive course ",
+    "company_name": "Makers Academy",
+    "location": "Remote/London, UK",
+    "start_date": "Oct 2020",
+    "end_date": "Feb 2021",
+    "role_description": "<li>Test - Driven Development(TDD RSpec)<li><li>Pair programming and Agile development</li><li>Technologies such as JavaScript, Ruby, Ruby on Rails, React Native, Sinatra, jQuery,HTML, CSS, and API</li><li>Testing Frameworks: RSpec, Capybara, Jasmine</li><li>Databases: PostgreSQL</li><li>Deployment: Heroku, Travis, CircleCI</li><li>Version Control: Github</li>"
+  },
+  "3": {
     "title": "",
     "employment_type": "",
     "company_name": "",
