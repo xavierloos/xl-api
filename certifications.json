@@ -3,6 +3,11 @@
         "title": "HTML5",
         "url_certification": "https://www.youracclaim.com/badges/27e5a90f-4009-4e6a-931e-569018ce7c3e/linked_in_profile",
         "img_certification": ""
+    },
+    "2": {
+        "title": "CSS3 & JavaScript",
+        "url_certification": "https://www.youracclaim.com/badges/08610cf4-30f8-4a2e-b851-17305299ddab/linked_in_profile",
+        "img_certification": ""
     }
 
 }
