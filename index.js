@@ -5,13 +5,15 @@ const importDetails = require('./details.json')
 const importProjects = require('./projects.json')
 const importExperience = require('./experience.json')
 const importCertification = require('./certification.json')
+const importEducation = require('./education.json')
 app.use(express.json());
 
 const home = {
   Details: importDetails,
   Projects: importProjects,
   Experience: importExperience,
-  Certification: importCertification
+  Certification: importCertification,
+  Education: importEducation
 }
 
 app.get('/', (req, res) => {
