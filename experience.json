@@ -18,12 +18,12 @@
     "role_description": "<li>Test - Driven Development(TDD RSpec)<li><li>Pair programming and Agile development</li><li>Technologies such as JavaScript, Ruby, Ruby on Rails, React Native, Sinatra, jQuery,HTML, CSS, and API</li><li>Testing Frameworks: RSpec, Capybara, Jasmine</li><li>Databases: PostgreSQL</li><li>Deployment: Heroku, Travis, CircleCI</li><li>Version Control: Github</li>"
   },
   "3": {
-    "title": "",
-    "employment_type": "",
-    "company_name": "",
-    "location": "",
-    "start_date": "",
-    "end_date": "",
-    "role_description": ""
+    "title": "Front End Developer",
+    "employment_type": "Full-time  ",
+    "company_name": "Energy Institut",
+    "location": "London, UK",
+    "start_date": "Dec 2019",
+    "end_date": "Sep 2020",
+    "role_description": "<li>Developed Barometer 2020 – an online version of EI’s annual report using JavaScript & Bootstrap.</li><li>Knowledge Hub – developed Hydrogen Guide for the information services using jQuery, HTML, and CSS.</li><li>Debugged, updated, built responsive pages and cross-browser compatibility. E.g., Hearts & Minds and Tripod.</li><li>SEO optimization and accessibility audit across EI’ s online services using Google Lighthouse.</li><li>Represented the Digital Team in company meetings to provide updates on project status.</li><li>Provided training and support for colleagues working within the online production processes.</li><li>Provided technical support for stakeholder enquiries.</li>"
   }
 }
