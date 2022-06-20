@@ -13,6 +13,16 @@
         "title": "Bootstrap4",
         "url_certification": "https://www.coursera.org/account/accomplishments/certificate/CKBCL254FX3V",
         "img_certification": ""
+    },
+    "4": {
+        "title": "React.js",
+        "url_certification": "https://www.coursera.org/account/accomplishments/verify/35G2K5TJR547",
+        "img_certification": ""
+    },
+    "5": {
+        "title": "Ruby",
+        "url_certification": "https://www.codecademy.com/profiles/xavierloos/certificates/1c05e0382bc5681c824c4cbe85c126fd",
+        "img_certification": ""
     }
 
 }
